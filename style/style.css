@@ -1,0 +1,91 @@
+.first{
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    width: 100%;
+}
+.banner{
+    position: absolute;
+    right: 20px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.button{
+     background-color: orange;
+     border-radius: 5px;
+     color: white;
+     padding: 10px;
+}
+.second{
+    margin-top: 50px;
+}
+.person{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.person-photo{
+    width: 100%;
+}
+.photo-description{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.third{
+    margin-top: 50px;
+}
+.plan{
+    text-align: center;
+}
+.courses{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 30px;
+}
+.last{
+    background-color: black;
+    margin-top: 50px;
+}
+.hand-watch{
+    position: relative;
+    left: 170px;
+    background-image: url(images/watch.png);
+    background: linear-gradient(rgba(98, 16, 153, 0.534));
+    background-repeat: no-repeat;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.button-call{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: white;
+    color: orange;
+}
+.mindset{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    color: black;
+
+}
+.black{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.white{
+    color: white;
+}
+.sub-button{
+    margin-top: 10px;
+}
